@@ -5,27 +5,33 @@ Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to bu
 <details>
   <summary>🔧 My Focus</summary>
   <ul>
+    <br>
     <li>Building responsive, accessible, and dynamic user interfaces.</li>
     <li>Combining aesthetics with functionality to create exceptional user experiences.</li>
     <li>Continuously exploring modern frameworks, tools, and best practices to keep evolving.</li>
+    <br>
   </ul>  
 </details>
 
 <details>
   <summary>📚 Currently Learning</summary>
   <ul>
+    <br>
     <li>Deepening my knowledge of JavaScript and TypeScript.</li>
     <li>Experimenting with frameworks like Angular and Vue.</li>
     <li>Improving my understanding of performance optimization and accessibility in development.</li>
+    <br>
   </ul>  
 </details>
 
 <details>
   <summary>⚡ My Skill Set</summary>
   <ul>
+    <br>
     <li>Languages: HTML, CSS, JavaScript, TypeScript</li>
     <li>Frameworks & Libraries: Angular, Bootstrap, TailwindCSS</li>
     <li>Tools: GitHub, VS Code, Firebase, Figma</li>
+    <br>
   </ul>  
 </details>
 
