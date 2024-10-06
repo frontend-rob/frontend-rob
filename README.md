@@ -47,9 +47,7 @@ Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to bu
 
 ##
 
-🚀 **Let’s Connect:**
+🚀 **Let’s Connect**
 
 Check out my work, and feel free to reach out if you're interested in collaborating or discussing new opportunities.
 I'm always excited to exchange knowledge, share insights, and contribute to exciting projects.
-
-#### Let’s build something extraordinary together!
