@@ -1,14 +1,14 @@
 ## 👋 Hi there, I'm Robert!
 
-Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to building beautiful, user-friendly applications. I thrive at the intersection of coding and creativity, where design meets functionality. Currently, I'm on a journey of continuous learning, exploring new technologies, and refining my skills to stay ahead in the fast-paced world of web development.
+Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to building beautiful, user-friendly applications. I thrive at the intersection of coding and creativity, where design meets functionality.
 
 <details>
     <summary><strong>🎯 My Focus</strong></summary>
     <br>
     <ul>
         <li>Building responsive, accessible, and dynamic user interfaces.</li>
-        <li>Combining aesthetics with functionality to create exceptional user experiences.</li>
-        <li>Continuously exploring modern frameworks, tools, and best practices to keep evolving.</li>
+        <li>Merging aesthetics with usability for standout user experiences.</li>
+        <li>Continuously exploring modern frameworks, tools, and best practices.</li>
     </ul>
     <br>
 </details>
@@ -17,9 +17,9 @@ Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to bu
     <summary><strong>💻 Currently Learning</strong></summary>
     <br>
     <ul>
-        <li>Deepening my knowledge of JavaScript and TypeScript.</li>
-        <li>Experimenting with frameworks like Angular and Vue.</li>
-        <li>Improving my understanding of performance optimization and accessibility in development.</li>
+        <li>Deepening expertise in JavaScript and TypeScript.</li>
+        <li>Experimenting with the frameworks Angular and Vue.</li>
+        <li>Expanding knowledge of performance optimization and accessibility.</li>
     </ul>
     <br>
 </details>
@@ -49,5 +49,4 @@ Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to bu
 
 🚀 **Let’s Connect**
 
-Check out my work, and feel free to reach out if you're interested in collaborating or discussing new opportunities.
-I'm always excited to exchange knowledge, share insights, and contribute to exciting projects.
+Check out my work, and feel free to reach out if you’re interested in collaborating or discussing new opportunities. I’m always up for sharing insights and diving into exciting projects!
