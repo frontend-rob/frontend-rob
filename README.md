@@ -6,9 +6,9 @@ Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to bu
     <summary><strong>🎯 My Focus</strong></summary>
     <br>
     <ul>
-        <li>Building responsive, accessible, and dynamic user interfaces.</li>
-        <li>Merging aesthetics with usability for standout user experiences.</li>
-        <li>Continuously exploring modern frameworks, tools, and best practices.</li>
+        <li>Building responsive, accessible, and dynamic user interfaces</li>
+        <li>Merging aesthetics with usability for standout user experiences</li>
+        <li>Continuously exploring modern frameworks, tools, and best practices</li>
     </ul>
     <br>
 </details>
@@ -17,9 +17,9 @@ Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to bu
     <summary><strong>💻 Currently Learning</strong></summary>
     <br>
     <ul>
-        <li>Deepening expertise in JavaScript and TypeScript.</li>
-        <li>Experimenting with the frameworks Angular and Vue.</li>
-        <li>Expanding knowledge of performance optimization and accessibility.</li>
+        <li>Deepening expertise in JavaScript and TypeScript</li>
+        <li>Experimenting with the frameworks Angular and Vue</li>
+        <li>Expanding knowledge of performance optimization and accessibility</li>
     </ul>
     <br>
 </details>
