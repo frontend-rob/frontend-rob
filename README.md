@@ -1,6 +1,10 @@
-## 👋 Hi there, I'm Robert!
+### Hi there! <img src="https://github.com/user-attachments/assets/43a45733-db78-4dc7-947a-da9d1f9425a4" height="24">
 
-Welcome to my GitHub corner! I'm a passionate frontend developer dedicated to building beautiful, user-friendly applications. I thrive at the intersection of coding and creativity, where design meets functionality.
+I'm Robert, a frontend developer based in Germany.
+
+Welcome to my GitHub corner!
+
+I’m passionate about creating beautiful and intuitive applications, where coding meets creativity. I thrive in the space where design enhances functionality, always focused on building scalable and efficient solutions.
 
 <details>
     <summary><strong>🎯 My Focus</strong></summary>
