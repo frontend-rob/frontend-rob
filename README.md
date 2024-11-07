@@ -2,7 +2,7 @@
 
 Welcome to my GitHub corner!
 
-I'm Robert, a frontend developer based in Germany.
+I'm Robert, a creative frontend developer based in Germany.
 
 I’m passionate about creating beautiful and intuitive applications, where coding meets creativity. I thrive at the intersection of design and functionality, focusing on building responsive, accessible, and dynamic user interfaces. My goal is to merge aesthetics with usability to create standout user experiences while always striving to build scalable and efficient solutions.
 
