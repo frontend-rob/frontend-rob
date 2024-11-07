@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/user-attachments/assets/43a45733-db78-4dc7-947a-da9d1f9425a4" height="24">
+### Hi there <img src="https://github.com/user-attachments/assets/43a45733-db78-4dc7-947a-da9d1f9425a4" height="24" width="24">
 
 Welcome to my GitHub corner!
 
