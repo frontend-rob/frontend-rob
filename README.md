@@ -4,32 +4,11 @@ Welcome to my GitHub corner!
 
 I'm Robert, a frontend developer based in Germany.
 
-I’m passionate about creating beautiful and intuitive applications, where coding meets creativity. I thrive in the space where design enhances functionality, always focused on building scalable and efficient solutions.
+I’m passionate about creating beautiful and intuitive applications, where coding meets creativity. I thrive at the intersection of design and functionality, focusing on building responsive, accessible, and dynamic user interfaces. My goal is to merge aesthetics with usability to create standout user experiences while always striving to build scalable and efficient solutions.
 
-<details>
-    <summary><strong>🎯 My Focus</strong></summary>
-    <br>
-    <ul>
-        <li>Building responsive, accessible, and dynamic user interfaces</li>
-        <li>Merging aesthetics with usability for standout user experiences</li>
-        <li>Continuously exploring modern frameworks, tools, and best practices</li>
-    </ul>
-    <br>
-</details>
+##
 
-<details>
-    <summary><strong>💻 Currently Learning</strong></summary>
-    <br>
-    <ul>
-        <li>Deepening expertise in JavaScript and TypeScript</li>
-        <li>Experimenting with the frameworks Angular and Vue</li>
-        <li>Expanding knowledge of performance optimization and accessibility</li>
-    </ul>
-    <br>
-</details>
-
-<details>
-    <summary><strong>⚡ My Skill Set</strong></summary>
+**⚡ Skill Set**
     <br>
     <ul>
         <li>Languages & Frameworks:
@@ -47,7 +26,6 @@ I’m passionate about creating beautiful and intuitive applications, where codi
             </p>
         </li>
     </ul>
-</details>
 
 ##
 
