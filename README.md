@@ -2,7 +2,7 @@
 
 I'm Robert, and welcome to my GitHub corner!
 
-As a frontend developer, I'm passionate about building beautiful, intuitive applications where creativity meets code. I thrive at the intersection of design and functionality, creating dynamic and responsive user interfaces while always striving to deliver scalable, efficient solutions.
+As a frontend developer, I'm passionate about building beautiful, intuitive applications where creativity meets code. I thrive at the intersection of design and functionality, creating dynamic and responsive user interfaces while always striving to deliver scalable and efficient solutions.
 
 ##
 
